@@ -11,7 +11,7 @@ YMM4用プラグインモジュール
 		<table>
 			<tr>
 				<td>
-					<img src="https://github.com/68B09/YMM4Plugins/blob/main/BlinkEffects/ymm4plugin_blink1.png">
+					<img src="https://github.com/68B09/YMM4Plugins/blob/main/docs/ymm4plugin_blink1.png">
 				</td>
 				<td valign="top">
 					[映像エフェクト]－[アニメーション]－[点滅]<br>
