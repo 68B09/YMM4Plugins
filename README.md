@@ -8,6 +8,22 @@ YMM4用プラグインモジュール
 ****
 ## [BlinkEffects]
 指定秒数で表示と非表示を繰り返すプラグインです。  
+		<table>
+			<tr>
+				<td><img src="[../image/ymm4plugin_blink1.png](https://github.com/68B09/YMM4Plugins/blob/main/BlinkEffects/ymm4plugin_blink1.png)"></td>
+				<td valign="top">
+					[映像エフェクト]－[アニメーション]－[点滅]<br>
+					<br>
+					【点滅時間】<br>
+						表示・非表示の持続時間を秒数で指定します。<br>
+						0秒を指定した場合は点滅しません。<br>
+					<br>
+					【非表示で開始】<br>
+						有効にすると非表示から開始します。<br>
+						消えた状態からスタートしたい場合に使用します。<br>
+				</td>
+			</tr>
+		</table>
 <img src="https://github.com/68B09/YMM4Plugins/blob/main/BlinkEffects/ymm4plugin_blink1.png" />
 ___
 ## ライセンス
