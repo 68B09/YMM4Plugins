@@ -28,8 +28,6 @@ YMM4用プラグインモジュール
 		</table>
 ダウンロード  
 BlinkEffects/BlinkEffects.zip  
-MD5(6cd98027e34cd25a73a4413e917228c4)  
-  
 (install ex)...\YukkuriMovieMaker4\user\plugin\BlinkEffects\BlinkEffects.dll  
 ___
 ## ライセンス
