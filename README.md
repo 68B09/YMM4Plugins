@@ -26,7 +26,9 @@ YMM4用プラグインモジュール
 				</td>
 			</tr>
 		</table>
-<img src="https://github.com/68B09/YMM4Plugins/blob/main/BlinkEffects/ymm4plugin_blink1.png" />
+ダウンロード  
+BlinkEffects/BlinkEffects.zip  
+MD5(6cd98027e34cd25a73a4413e917228c4)  
 ___
 ## ライセンス
 YMM4が指定しているライセンスに従います。  
