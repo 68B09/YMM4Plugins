@@ -8,8 +8,7 @@ YMM4用プラグインモジュール
 ****
 ## [BlinkEffects]
 指定秒数で表示と非表示を繰り返すプラグインです。  
-<a href="https://twitter.com/MB68B09/status/1728731961144066362" target="_blank">sample</a>  
-
+<a href="https://twitter.com/MB68B09/status/1728731961144066362" target="_blank">Sample(twitter)</a>
 	<table>
 		<tr>
 			<td>
