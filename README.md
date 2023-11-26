@@ -10,7 +10,9 @@ YMM4用プラグインモジュール
 指定秒数で表示と非表示を繰り返すプラグインです。  
 		<table>
 			<tr>
-				<td><img src="[../image/ymm4plugin_blink1.png](https://github.com/68B09/YMM4Plugins/blob/main/BlinkEffects/ymm4plugin_blink1.png)"></td>
+				<td>
+					<img src="https://github.com/68B09/YMM4Plugins/blob/main/BlinkEffects/ymm4plugin_blink1.png">
+				</td>
 				<td valign="top">
 					[映像エフェクト]－[アニメーション]－[点滅]<br>
 					<br>
