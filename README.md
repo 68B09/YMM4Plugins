@@ -10,24 +10,24 @@ YMM4用プラグインモジュール
 指定秒数で表示と非表示を繰り返すプラグインです。  
 <a href="https://twitter.com/MB68B09/status/1728731961144066362" target="_blank">sample</a>  
 
-<table>
-	<tr>
-		<td>
-			<img src="https://github.com/68B09/YMM4Plugins/blob/main/docs/ymm4plugin_blink1.png">
-		</td>
-		<td valign="top">
-			[映像エフェクト]－[アニメーション]－[点滅]<br>
-			<br>
-			【点滅時間】<br>
-				表示・非表示の持続時間を秒数で指定します。<br>
-				0秒を指定した場合は点滅しません。<br>
-			<br>
-			【非表示で開始】<br>
-				有効にすると非表示から開始します。<br>
-				消えた状態からスタートしたい場合に使用します。<br>
-		</td>
-	</tr>
-</table>
+	<table>
+		<tr>
+			<td>
+				<img src="https://github.com/68B09/YMM4Plugins/blob/main/docs/ymm4plugin_blink1.png">
+			</td>
+			<td valign="top">
+				[映像エフェクト]－[アニメーション]－[点滅]<br>
+				<br>
+				【点滅時間】<br>
+					表示・非表示の持続時間を秒数で指定します。<br>
+					0秒を指定した場合は点滅しません。<br>
+				<br>
+				【非表示で開始】<br>
+					有効にすると非表示から開始します。<br>
+					消えた状態からスタートしたい場合に使用します。<br>
+			</td>
+		</tr>
+	</table>
 ダウンロード  
 BlinkEffects/BlinkEffects.zip  
 (install ex)...\YukkuriMovieMaker4\user\plugin\BlinkEffects\BlinkEffects.dll  
