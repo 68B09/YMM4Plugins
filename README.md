@@ -16,6 +16,7 @@ YMM4用プラグインモジュール
 			</td>
 			<td valign="top">
 				[映像エフェクト]－[アニメーション]－[点滅]<br>
+				※Aviutil非対応※<br>
 				<br>
 				【点滅時間】<br>
 					表示・非表示の持続時間を秒数で指定します。<br>
@@ -36,11 +37,20 @@ YMM4用プラグインモジュール
 BlinkEffects/BlinkEffects.zip  
 (install ex)...\YukkuriMovieMaker4\user\plugin\BlinkEffects\BlinkEffects.dll  
 
+2023/11/28 68B09  
+Aviutil非対応マーク(ゆ)を表示するように修正。  
+<a href="https://twitter.com/benikazura_X/status/1729158870008995934">べにかずら</a>さんに感謝。  
+
+2023/11/26 68B09  
+First release.
 ___
 ## ライセンス
 YMM4が指定しているライセンスに従います。  
 指定がない場合、MITライセンスとします。  
 ___
 ## 履歴
+2023/11/28 68B09  
+BlinkEffects修正。  
+
 2023/11/26 68B09  
 First release.
