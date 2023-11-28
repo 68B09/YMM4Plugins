@@ -8,7 +8,7 @@ YMM4用プラグインモジュール
 ****
 ## [BlinkEffects]
 指定秒数で表示と非表示を繰り返すプラグインです。  
-<a href="https://twitter.com/MB68B09/status/1728731961144066362" target="_blank">Sample(twitter)</a>
+<a href="https://twitter.com/MB68B09/status/1728731961144066362" target="_blank">Sample(twitter)</a>  
 	<table>
 		<tr>
 			<td>
@@ -27,9 +27,15 @@ YMM4用プラグインモジュール
 			</td>
 		</tr>
 	</table>
+   
+内部では、非表示期間はOpacity(不透明度)を0に、表示期間はOpacityは操作せずそのままスルーしています。  
+不透明度を操作している他の映像エフェクトと同時に使用する際には「エフェクトの適用順」に注意してください。  
+本エフェクトは一番最後に適用されるエフェクトとして使うのが一番安全(?)だと思います。  
+  
 ダウンロード  
 BlinkEffects/BlinkEffects.zip  
 (install ex)...\YukkuriMovieMaker4\user\plugin\BlinkEffects\BlinkEffects.dll  
+
 ___
 ## ライセンス
 YMM4が指定しているライセンスに従います。  
